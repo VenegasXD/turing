@@ -1,0 +1,22 @@
+.wee {
+  margin-top: -8%;
+  background: rgba(0, 0, 0, 0);
+
+
+}
+
+.fondoCuadro{
+  object-fit: cover;
+  width:100%;
+  height:100%;
+  background-image: linear-gradient(120deg, #1FBF92 0%, #96e6a1 100%);
+}
+
+
+.Bg-azul {
+  background-color: #112E40;
+}
+
+.Bg-verde {
+  color: #1FBF92;
+}
