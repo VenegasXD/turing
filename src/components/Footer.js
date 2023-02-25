@@ -7,8 +7,8 @@ const Footer = () => {
 
 <ul class="nav justify-content-center  pb-3 mb-3">
     <li class="nav-item"><a href="/" class="nav-link px-2 text-light">Inicio</a></li>
-    <li class="nav-item"><a href="#" class="nav-link px-2 text-light">Personajes</a></li>
-    <li class="nav-item"><a href="#" class="nav-link px-2 text-light">Acerca</a></li>
+    <li class="nav-item"><a href="#Personajes" class="nav-link px-2 text-light">Personajes</a></li>
+    <li class="nav-item"><a href="#Acerca" class="nav-link px-2 text-light">Acerca</a></li>
     <li class="nav-item"><a href="#" class="nav-link px-2 text-light">Prueba Turing 2023</a></li>
 </ul>
 

@@ -5,11 +5,12 @@ const Tarjetas = ({ characters =[] }) => {
 
      characters.map((item, index) =>( 
     <div key={index} class="col">
-      <div class="card border-dark ">
+      <div class="card border-dark h-100">
         <img
           src={item.image}
           class="card-img-top p-2"
           alt="..."
+          width="100px"
         />
         <div class="card-body">
           <h5 class="card-title">{item.name}</h5>
